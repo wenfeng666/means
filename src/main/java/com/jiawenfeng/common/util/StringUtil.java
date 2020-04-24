@@ -3,13 +3,7 @@ package com.jiawenfeng.common.util;
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
-/**
- * 
- * @ClassName: StringUtil
- * @Description: 字符串处理工具类
- * @author: charles
- * @date: 2020年3月26日 上午8:54:43
- */
+
 public class StringUtil {
 
 	// 方法1：判断源字符串是否有值，空引号(空白字符串)也算没值 (5分)
